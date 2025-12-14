@@ -15,7 +15,7 @@ The assignment focuses on using Python and Pandas for in-depth data analysis and
 
 * **`Advanced_Programming_HW4.ipynb`**: Full Python solution notebook with code and analysis results.
 * **`StudentsPerformance.csv`**: The raw dataset used for the analysis.
-* **`docs/Assignment_Instructions_4.pdf`**: Original assignment instructions.
+* **`Assignment_Instructions_4.pdf`**: Original assignment instructions.
 
 ***
 *Course: Advanced Programming (Shenkar College, IE&M)*
